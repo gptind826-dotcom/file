@@ -61,10 +61,10 @@ SUBSCRIPTION_ENTITIES = [
         "link": "https://t.me/+Kp4wwNKJKp42MmQ1"
     },
     {
-        "id": -1003533135835,
-        "name": "𝐙𝐗𝐓 𝐂𝐎𝐙𝐘",
+        "id": -1003360548513,
+        "name": "𝐄𝐗𝐔〆𝐏𝐑𝐈𝐌𝐄",
         "type": "channel",
-        "link": "https://t.me/zxtcozy"
+        "link": "https://t.me/exucoder1"
     },
     {
         "id": -1003645019104,
