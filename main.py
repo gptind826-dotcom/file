@@ -58,7 +58,7 @@ SUBSCRIPTION_ENTITIES = [
         "id": -1003564583501,
         "name": "𝐕𝐀𝐍𝐙𝐎〆𝐂𝐈𝐙𝐘",
         "type": "channel",
-        "link": "https://t.me/+Kp4wwNKJKp42MmQ1"
+        "link": "https://t.me/vanzocizy"
     },
     {
         "id": -1003430863353,
@@ -70,7 +70,7 @@ SUBSCRIPTION_ENTITIES = [
         "id": -1003645019104,
         "name": "ᴡᴇʙꜱɪᴛᴇ〆ꜰɪʟᴇ",
         "type": "channel",
-        "link": "https://t.me/+hsxmKaYRjRA2Mzk9"
+        "link": "https://t.me/webfileexu"
     },
     {
         "id": -1003669933791,
