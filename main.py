@@ -64,7 +64,7 @@ SUBSCRIPTION_ENTITIES = [
         "id": -1003430863353,
         "name": "𝐄𝐗𝐔 𝐂𝐎𝐃𝐄𝐑 🌿",
         "type": "channel",
-        "link": "https://t.me/exucoder1"
+        "link": "https://t.me/exucodex1"
     },
     {
         "id": -1003645019104,
